@@ -1,0 +1,1 @@
+adınız=input("adını giriniz:") 
